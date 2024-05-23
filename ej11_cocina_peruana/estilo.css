@@ -1,0 +1,26 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+     color: #333; font-size: 20px;
+     text-transform: uppercase;
+}
+h2{
+    color: #666; font-size: 16px;
+}
+p, li{
+    color: #000; font-size: 12px;
+}
+.boton-redireccionar{
+    position: relative;
+    top: 10px;
+    bottom: 0px;
+    left: 50px;
+    background-color: rgb(39, 61, 255);
+    color: aliceblue;
+    padding: 5px 30px;
+    text-decoration: none;
+    font-size: 1.4rem;
+    border-radius: 19px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
